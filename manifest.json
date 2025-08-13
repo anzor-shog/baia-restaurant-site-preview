@@ -1,0 +1,9 @@
+{
+  "name": "Baia — ресторан",
+  "short_name": "Baia",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "Baia restaurant site"
+}
