@@ -1,5 +1,5 @@
 const CACHE_NAME = 'baia-pwa-v1'
-const URLS_TO_CACHE = ['/', '/index.html']
+const URLS_TO_CACHE = ['./', './index.html', 'https://anzor-shog.github.io/baia-restaurant-site-preview/']
 
 self.addEventListener('install', event => {
   event.waitUntil(
